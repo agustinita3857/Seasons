@@ -11,6 +11,6 @@ Metodo para obtener la locacion:
 Geolocation API
 
 Tecnologias:
-CSS 3
-HTML 5
+CSS 3,
+HTML 5,
 React 17.0.1
